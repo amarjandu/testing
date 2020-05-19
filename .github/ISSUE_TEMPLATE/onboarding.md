@@ -1,7 +1,7 @@
 ---
-name: onboarding
-about: Onboarding Template
-title: ''
+name: Onboarding
+about: 'Template for onboarding new developers '
+title: Onboarding to Azul
 labels: ''
 assignees: ''
 
