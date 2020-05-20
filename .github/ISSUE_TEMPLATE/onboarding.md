@@ -4,6 +4,7 @@ about: 'Template for onboarding new developers '
 title: Onboarding to Azul
 labels: infra, task
 assignees: ''
+
 ---
 
 # Onboarding
