@@ -2,7 +2,7 @@
 name: Onboarding
 about: 'Template for onboarding new developers '
 title: Onboarding to Azul
-labels: ''
+labels: infra, task
 assignees: ''
 
 ---
